@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# moon_shot
-=======
 # moon_shot
 
 A new Flutter project.
